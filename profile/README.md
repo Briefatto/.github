@@ -5,8 +5,6 @@
 </picture>
 </p>
 
-Briefatto Lab builds design infrastructure for AI agents.
-
 **[Briefatto Board](https://github.com/Briefatto/briefatto-board)**<br>
 The design layer for every agent. One versioned `DESIGN.md` that every agent reads before it draws, and a quality floor every rendered piece must pass.
 
