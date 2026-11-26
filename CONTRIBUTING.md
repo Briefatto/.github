@@ -7,7 +7,7 @@ Briefatto builds design infrastructure for AI agents in the open. Issues, fixes 
 - **Bugs:** open an issue with the bug report form.
 - **Ideas and requests:** open an issue with the feature request form.
 - **Questions:** ask in the repository's Discussions.
-- **Security issues:** never in public. Follow [SECURITY.md](SECURITY.md).
+- **Security issues:** never in public. Follow [SECURITY.md](https://github.com/Briefatto/.github/blob/main/SECURITY.md).
 
 ## Pull requests
 
@@ -36,4 +36,4 @@ Contributions are made under the licence of the repository they go to: Apache-2.
 
 ## Conduct
 
-Everyone taking part follows the [Code of Conduct](CODE_OF_CONDUCT.md).
+Everyone taking part follows the [Code of Conduct](https://github.com/Briefatto/.github/blob/main/CODE_OF_CONDUCT.md).
