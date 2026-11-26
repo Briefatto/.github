@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Question about Briefatto Board
+    url: https://github.com/Briefatto/briefatto-board/discussions
+    about: Ask in Discussions.
+  - name: Question about design-md-gallery
+    url: https://github.com/Briefatto/design-md-gallery/discussions
+    about: Ask in Discussions.
+  - name: Guides
+    url: https://briefatto.com/guides/
+    about: Setup, every command and the brand files.
+  - name: Security vulnerability
+    url: https://github.com/Briefatto/.github/blob/main/SECURITY.md
+    about: Report privately. Never in a public issue.
